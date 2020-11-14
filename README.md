@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - 😄 Super like MMORPG
 
 Making online multi-user games, I see a lot of users having fun in a virtually created space, and I was also very happy. It is the driving force of my life
+
 My main interests are network programming and machine learning, I have no doubt that strong AI will one day appear in the world.
