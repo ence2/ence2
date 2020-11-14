@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ence88/ence88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I am... ✨
+- 👨‍🎓 master of engineering in computer science ( AI`deep learning` nlp task )
+- 💻 Currently working as a game server developer
+- 😄 super like MMORPG
+
+Making online multi-user games, I see a lot of users having fun in a virtually created space, and I was also very happy. It is the driving force of my life
+My main interests are network programming and machine learning, I have no doubt that strong AI will one day appear in the world.
