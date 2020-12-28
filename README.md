@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### I am... ✨
-- 👨‍🎓 Master of engineering in computer science ( AI`deep learning` nlp task )
+- 👨‍🎓 Master's degree in computer engineering ( AI`deep learning` nlp task )
 - 💻 Currently working as a game server developer
 - 😄 Super like MMORPG
 
